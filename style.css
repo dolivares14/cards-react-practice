@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    font-family: inter;
+    font-weight: 400
+}
+.card{
+    display: flex;
+    
+    padding: 20px;
+}
+.MainImg{
+  width: 100%;
+  min-height: 100%;
+  height: auto;   
+  border-radius: 5px;
+}
+.locationIcon{
+    width: 20px;
+}
+.leftdiv{
+    
+    padding-right: 20px;
+    
+}
+.rightdiv{
+  min-width: 60%;
+   
+}
+.googleLink{
+    color: #918E9B;
+    margin-left: 20px;
+}
+.title{
+    font-weight: 700;
+}
+.time{
+    font-weight: 700;
+}
+nav{
+    display: flex;
+    align-items: center;
+  justify-content: center;
+    background-color: #F55A5A;
+    color: white;
+    border-radius: 5px;
+}
+.globeicon{
+    width:50px;
+    margin-right: 20px;
+}
+
